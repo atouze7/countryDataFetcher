@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(8, 19, 52);
+}
+
+.search:hover {
+  cursor: pointer;
+  background-color: rgb(8, 19, 52);
+  color: white;
+}
+
+.div2 {
+  width: 80%;
+  height: 800px;
+  overflow: hidden;
+}
+
+.input {
+  width: 500px;
+  height: 18px;
+  background-color: rgb(44, 70, 149);
+  border-style: groove;
+}
+
+.input::placeholder {
+  color: white;
+}
+
+.newDiv1 {
+  background-color: rgba(17, 70, 230, 0.554);
+  height: 290px;
+  width: 240px;
+  position: relative;
+  top: 70px;
+  display: inline-block;
+  margin: 20px;
+}
+
+.pic {
+  height: 100px;
+  width: 100%;
+}
+
+.name {
+  color: white;
+}
